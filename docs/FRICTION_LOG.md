@@ -48,4 +48,4 @@ Record anything about Bedrock model access, Neon, Vercel deployment protection, 
 
 | Request | Why it matters | Urgency |
 |---|---|---|
-| | | critical / important / nice-to-have |
+|   |   | critical / important / nice-to-have |
