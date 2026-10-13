@@ -1,9 +1,6 @@
 /**
  * End-to-end smoke test for the deployed (or local) MCP server.
  *
- *   BASE_URL=https://your-app.vercel.app MCP_API_KEY=... npm run smoke
- *   (defaults to http://localhost:3000)
- *
  * It proves, with real network calls:
  *   1. a modern client (MCP SDK v2, spec 2026-07-28) can connect and call tools
  *   2. a 2025-era client (MCP SDK 1.x, spec 2025-11-25) can connect and call tools
